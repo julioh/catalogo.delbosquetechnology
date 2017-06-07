@@ -1,0 +1,23 @@
+{
+  "name": "catalogo-grupodelbosque",
+  "version": "1.0.1",
+  "description": "Catalogo del Bosque",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "delbosque"
+  ],
+  "authors": [
+    "Grupo delbosquetechnology"
+  ],
+  "license": "MIT",
+  "homepage": "delbosquetechnology.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
